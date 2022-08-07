@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Region",
-            path: "artifacts/ios/Region.xcframework"
+            path: "artifacts/Region.xcframework"
         ),
     ]
 )
